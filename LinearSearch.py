@@ -28,6 +28,8 @@ while True:  # Runs until Get the correct Value
 if(key not in array):   # Checks Wether the key is in the array
     print(key,"Is Not In The List")
 else:
-    print(key,"Is At Index : ",(array.index(key)))  # Print the index of the Key
+    for i in range(0,len(array)):
+        if(array[i] == key):
+            print(key,"Is At Index : ",i)  # Print the index of the Key
 
 print("\nThank You ✌️")
