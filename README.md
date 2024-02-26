@@ -11,3 +11,7 @@
   <h2>⭐ Binary Search</h2>
   <p>Binary Search is defined as a searching algorithm used in a sorted array by repeatedly dividing the search interval in half. </p>
 </div>
+<div>
+  <h2>⭐ Front And Back Search</h2>
+  <p>Front And Back Search Algorithm is a variant of linear search where you start searching from both ends of the sorted array towards the middle simultaneously, aiming to reduce the search space faster than a traditional linear search.</p>
+</div>
